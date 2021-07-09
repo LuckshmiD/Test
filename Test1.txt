@@ -4,4 +4,7 @@ hi
 hello
 how 
 are you
-git 
+
+pikachu
+bulbasaur
+chamneder
