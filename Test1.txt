@@ -7,4 +7,6 @@ are you
 
 pikachu
 bulbasaur
-chamneder
+game
+
+flamethrower
